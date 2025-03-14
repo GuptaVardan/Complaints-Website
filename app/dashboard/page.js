@@ -139,12 +139,16 @@ const Dashboard = () => {
       // Open the URL in a new tab
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       window.open("https://script.google.com/a/macros/iith.ac.in/s/AKfycbzYgdmUPgs52IvkajRXXyCCUq3qaRySgnylgk-kMKhow5eWih0LyJvWTYrYgBLrJYybJA/exec");
 =======
       window.open("https://script.google.com/a/macros/iith.ac.in/s/AKfycbz-WSDLI9hvecfqtq6X4SNqx7m3vCiRDGrWNjuA5DnmNMVfGNPJpA_Nu_nKQZWVn7eEdA/exec");
 >>>>>>> upstream/main
 =======
       window.open("https://script.google.com/a/macros/iith.ac.in/s/AKfycbwZhOkuAlGSQCB8mRJa8aek9olZyrV67uROSfWC8XbScwLUsiTBQlEtm4xeqdk1jfknAg/exec");
+>>>>>>> upstream/main
+=======
+      window.open("https://script.google.com/a/macros/iith.ac.in/s/AKfycbzFcNA66QvV9TtRjA2jGr3kJ0ilXC4lWoavsBxbh1ysIpMtFuiv_6FBTus8As2plf_H8g/exec");
 >>>>>>> upstream/main
 
     }
